@@ -1,0 +1,67 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+body{
+  background-position: center;
+  background-image: url("http://files.kaboompics.com/upload/36_min.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 72px;
+    color:#ffffff;
+}
+h3 {
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size:44px;
+}
+h2 {
+  color: white;
+  font-family: 'Lobster', cursive;
+}
+h4 {
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 36px;
+}
+p {
+  font-family: 'Lobster', cursive;
+  color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display:block;
+    width:100%;
+}
+.bar{
+  width:auto;
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #8C1515;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #000000;
+}
+
+img {
+    border: 2px solid white;
+    border-radius: 50%;
+}
